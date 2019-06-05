@@ -1,0 +1,46 @@
+[Wed Jun 05 10:09:45.056453 2019] [mpm_prefork:notice] [pid 1116] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Wed Jun 05 10:09:45.056512 2019] [core:notice] [pid 1116] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 05 14:57:36.061053 2019] [php7:notice] [pid 9729] [client ::1:46200] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 14:57:36.086103 2019] [php7:notice] [pid 9729] [client ::1:46200] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:02:44.277656 2019] [php7:notice] [pid 6922] [client ::1:46260] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:02:44.277738 2019] [php7:notice] [pid 6922] [client ::1:46260] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:06:23.530913 2019] [php7:notice] [pid 9729] [client ::1:46344] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:06:23.530965 2019] [php7:notice] [pid 9729] [client ::1:46344] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:09:09.326751 2019] [php7:notice] [pid 6926] [client ::1:46438] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:09:09.326782 2019] [php7:notice] [pid 6926] [client ::1:46438] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:11:08.527780 2019] [php7:notice] [pid 6924] [client ::1:46468] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:11:08.527817 2019] [php7:notice] [pid 6924] [client ::1:46468] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:11:28.731309 2019] [php7:notice] [pid 6925] [client ::1:46472] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:11:28.731375 2019] [php7:notice] [pid 6925] [client ::1:46472] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:24.903119 2019] [php7:notice] [pid 6923] [client ::1:46476] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:24.903187 2019] [php7:notice] [pid 6923] [client ::1:46476] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:26.363504 2019] [php7:notice] [pid 6923] [client ::1:46476] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:26.363576 2019] [php7:notice] [pid 6923] [client ::1:46476] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:26.571354 2019] [php7:notice] [pid 9729] [client ::1:46480] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:26.571404 2019] [php7:notice] [pid 9729] [client ::1:46480] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:26.738926 2019] [php7:notice] [pid 6923] [client ::1:46476] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:26.738973 2019] [php7:notice] [pid 6923] [client ::1:46476] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:40.858953 2019] [php7:notice] [pid 9073] [client ::1:46488] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:40.859058 2019] [php7:notice] [pid 9073] [client ::1:46488] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:41.008373 2019] [php7:notice] [pid 9730] [client ::1:46492] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:41.008437 2019] [php7:notice] [pid 9730] [client ::1:46492] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:41.155147 2019] [php7:notice] [pid 6924] [client ::1:46490] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:41.155192 2019] [php7:notice] [pid 6924] [client ::1:46490] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:41.323182 2019] [php7:notice] [pid 9730] [client ::1:46492] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:41.323227 2019] [php7:notice] [pid 9730] [client ::1:46492] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:41.640109 2019] [php7:notice] [pid 6924] [client ::1:46490] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:12:41.640149 2019] [php7:notice] [pid 6924] [client ::1:46490] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:15:10.243667 2019] [php7:notice] [pid 6925] [client ::1:46496] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:15:10.243734 2019] [php7:notice] [pid 6925] [client ::1:46496] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:15:38.236526 2019] [php7:notice] [pid 9731] [client ::1:46500] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:15:38.236630 2019] [php7:notice] [pid 9731] [client ::1:46500] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:20:25.632356 2019] [php7:notice] [pid 6926] [client ::1:46586] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:20:25.632390 2019] [php7:notice] [pid 6926] [client ::1:46586] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:22:00.724075 2019] [php7:notice] [pid 9729] [client ::1:46606] PHP Notice:  Undefined variable: form in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:22:00.724136 2019] [php7:notice] [pid 9729] [client ::1:46606] PHP Notice:  Undefined variable: to in /var/www/html/THLocDanhSachKhanhHang/index.php on line 24
+[Wed Jun 05 15:58:47.439517 2019] [php7:emerg] [pid 9730] [client ::1:47706] PHP Parse error:  syntax error, unexpected '?>' in /var/www/html/THTaoLayoutChoWeb/log.php on line 10
+[Wed Jun 05 15:58:55.983781 2019] [php7:warn] [pid 6925] [client ::1:47708] PHP Warning:  Use of undefined constant jhj - assumed 'jhj' (this will throw an Error in a future version of PHP) in /var/www/html/THTaoLayoutChoWeb/log.php on line 8
+[Wed Jun 05 15:59:14.582707 2019] [php7:emerg] [pid 9731] [client ::1:47712] PHP Parse error:  syntax error, unexpected ';' in /var/www/html/THTaoLayoutChoWeb/log.php on line 8
+[Wed Jun 05 16:04:27.748766 2019] [php7:emerg] [pid 6923] [client ::1:47784] PHP Parse error:  syntax error, unexpected ';' in /var/www/html/log/index.php on line 8
+[Wed Jun 05 16:04:46.659395 2019] [php7:emerg] [pid 9073] [client ::1:47824] PHP Parse error:  syntax error, unexpected ';' in /var/www/html/log/index.php on line 8
+[Wed Jun 05 16:05:42.044186 2019] [php7:error] [pid 6922] [client ::1:47832] script '/var/www/html/THTaoLayoutChoWeb/log.php' not found or unable to stat
